@@ -42,11 +42,6 @@ This Django-based URL shortener allows users to shorten long URLs into unique sh
         source venv/bin/activate
         ```
 
-5. Install dependencies from the requirements.txt file:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
    
 5. Apply database migrations:
 
