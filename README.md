@@ -43,11 +43,11 @@ This Django-based URL shortener allows users to shorten long URLs into unique sh
         ```
 
 5. Install dependencies from the requirements.txt file:
-   
-        ```bash
-        pip install -r requirements.txt
-        ```
 
+    ```bash
+    pip install -r requirements.txt
+    ```
+   
 5. Apply database migrations:
 
     ```bash
@@ -63,10 +63,10 @@ This Django-based URL shortener allows users to shorten long URLs into unique sh
 ## Usage:
 
   ```bash
-  * Navigate to the home page and enter a long URL in the provided form.
-  * Click the "Save" button to generate a short URL.
-  * Use the provided short URL to redirect to the original long URL.  
-  * Project Contributors
+   * Navigate to the home page and enter a long URL in the provided form.
+   * Click the "Save" button to generate a short URL.
+   * Use the provided short URL to redirect to the original long URL.  
+   * Project Contributors
   ```
 
 
